@@ -1,7 +1,7 @@
 # Caffe-to-CoreML-converter
 A python script that converts Caffe trained model to CoreML in order to use natively with Swift CoreML
 
-The project uses Oxford102.caffemodel as trained model. Ti contains flowers and labels and give the ability to classify images and recognize flowers.
+The project uses Oxford102.caffemodel as trained model. This model contains flowers and labels and give the ability to classify images and recognize the fauna.
 
 As iOS only supports python v2.7, in order to run the scipt the following steps needs to be taken:
 
