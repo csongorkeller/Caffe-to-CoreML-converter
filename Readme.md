@@ -3,6 +3,8 @@ A python script that converts Caffe trained model to CoreML in order to use nati
 
 The project uses Oxford102.caffemodel as trained model. This model contains flowers and labels and give the ability to classify images and recognize the fauna.
 
+Python trained model available here: https://www.tensorflow.org/datasets/catalog/oxford_flowers102
+
 As iOS only supports python v2.7, in order to run the scipt the following steps needs to be taken:
 
 1. Download PIP for Python : https://pip.pypa.io/en/stable/installing/
